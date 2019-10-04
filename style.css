@@ -1,0 +1,22 @@
+.container {
+  display: flex;
+  justify-content: center;
+  margin: 10%;
+}
+
+.square{
+  height: 17em;
+  width: 17em;
+  border: 1px solid black;
+
+  margin: 2em;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+}
+
+.dark-mode{
+  background-color: #1c1c1c;
+  color: aliceblue;
+}
